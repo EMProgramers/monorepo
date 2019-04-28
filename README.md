@@ -1,0 +1,2 @@
+# monorepo
+test monorepo concept
